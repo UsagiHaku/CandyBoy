@@ -80,9 +80,9 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -393,23 +393,23 @@
       <workItem from="1542855152323" duration="10609000" />
       <workItem from="1542987454851" duration="15125000" />
       <workItem from="1543272785130" duration="26000" />
+      <workItem from="1545965060696" duration="550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111543000" />
+    <option name="totallyTimeSpent" value="112093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Gulp" order="0" side_tool="true" />
       <window_info id="npm" order="1" sideWeight="0.50555557" side_tool="true" weight="0.34305555" />
       <window_info id="Favorites" order="2" sideWeight="0.50555557" side_tool="true" weight="0.23125" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49444443" visible="true" weight="0.15307583" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49444443" visible="true" weight="0.15522175" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3277311" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32913166" />
@@ -496,9 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#li#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
